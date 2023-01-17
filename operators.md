@@ -1,4 +1,4 @@
-## arithmatic operators
+## arithmetic operators
 
 Modulus Operator only accepts integer operands and for divison operator if both operands are integer result of division will be the integer part of the result
 
